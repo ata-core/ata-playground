@@ -15,6 +15,6 @@
     "ajv-formats": "^3.0.1",
     "ata-validator": "^0.4.14",
     "fastify": "^5.8.4",
-    "fastify-ata": "^0.2.14"
+    "fastify-ata": "^0.2.16"
   }
 }
